@@ -1,0 +1,6 @@
+folktables
+numpy
+scikit-learn
+torch
+matplotlib
+scikit-optimize
